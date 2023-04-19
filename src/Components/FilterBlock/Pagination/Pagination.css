@@ -1,0 +1,23 @@
+.filter_btn {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 196px;
+}
+
+.btn {
+  border: none;
+  height: 35px;
+  width: 80px;
+  background-color: #ea003d;
+  color: rgb(22, 22, 48);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.number_page {
+  text-align: center;
+  margin-top: 3px;
+  font-size: 14px;
+}

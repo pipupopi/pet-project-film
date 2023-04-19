@@ -1,0 +1,25 @@
+body {
+  background: #1c184b;
+  background-color: -webkit-linear-gradient(
+    to right,
+    #24243e,
+    #302b63,
+    #0f0c29
+  );
+  background-color: linear-gradient(
+    to right,
+    #24243e,
+    #302b63,
+    #0f0c29
+  );
+  font-family: "Roboto", sans-serif;
+}
+.App {
+  margin: 0 auto;
+  width: 930px;
+  height: 960px;
+}
+
+.used_space {
+  display: flex;
+}

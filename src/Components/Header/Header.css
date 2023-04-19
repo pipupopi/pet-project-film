@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+  height: 40px;
+}
+
+.btn_home,
+.btn_login {
+  color: rgb(22, 22, 48);
+  width: 100px;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  margin-right: 35px;
+  font-size: 15px;
+  border-radius: 4px;
+  height: 30px;
+  margin-top: 5px;
+  background-color: #ea003d;
+}

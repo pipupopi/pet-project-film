@@ -1,0 +1,79 @@
+.app {
+  margin: 0 auto;
+  width: 928px;
+  height: 960px;
+}
+
+.wrapper {
+  margin: 40px 0px 0px -5px;
+  display: flex;
+  background-color: rgb(22, 22, 48);
+  height: 550px;
+  width: 905px;
+}
+
+.filter-block {
+  margin: -315px 0px 0px 30px;
+  color: #ea003d;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  font-size: 17px;
+  position: absolute;
+  top: 410px;
+  padding-right: 40px;
+}
+
+.select-block select {
+  height: 36px;
+  width: 285px;
+  font-size: 14px;
+  padding-left: 4px;
+  border: 1px solid #ea003d;
+  margin-top: 4px;
+  border-radius: 5px;
+  margin-bottom: 18px;
+}
+
+.find-btn {
+  background-color: #ea003d;
+  font-size: 15px;
+  font-weight: bold;
+  height: 36px;
+  width: 285px;
+  color: rgb(22, 22, 48);
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 12px;
+}
+
+.film-img {
+  height: 360px;
+  border-radius: 5px;
+}
+
+.film {
+  margin: -485px 0px 0px 500px;
+  width: 270px;
+}
+
+.pagination-btn button {
+  background-color: #ea003d;
+  font-size: 15px;
+  font-weight: bold;
+  height: 36px;
+  width: 137px;
+  color: rgb(22, 22, 48);
+  border: none;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+.film-card {
+  font-size: 17px;
+}
+
+.error_page {
+  font-size: 20px;
+  width: 295px;
+  margin-top: 10px;
+}

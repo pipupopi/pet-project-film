@@ -1,0 +1,9 @@
+.genres_wrapper {
+  display: flex;
+  width: 200px;
+  height: 20px;
+  align-items: center;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 2.5px;
+}

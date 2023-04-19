@@ -1,0 +1,59 @@
+.app {
+  margin: 0 auto;
+  width: 928px;
+  height: 960px;
+}
+
+.component {
+  margin: 40px 0px 0px -5px;
+  display: flex;
+  background-color: rgb(22, 22, 48);
+  height: 780px;
+  width: 905px;
+}
+
+.poster {
+  padding-top: 29px;
+  height: 610px;
+  width: 420px;
+  padding-left: 45px;
+}
+
+.title-film {
+  font-size: 28px;
+  color: #ea003d;
+}
+
+.info-film {
+  margin: -9px 0px 0px 500px;
+  color: white;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  font-size: 16px;
+  position: absolute;
+  padding-right: 40px;
+  width: 380px;
+}
+
+.film-details {
+  width: 640px;
+  margin: 650px 0px 0px -420px;
+  color: white;
+  overflow-wrap: break-word;
+  font-size: 16px;
+  color: #ea003d;
+  line-height: 10px;
+}
+
+.exit_btn {
+  position: absolute;
+  margin-top: 710px;
+  width: 40px;
+  margin-left: 140px;
+  height: 40px;
+}
+
+.link_details {
+  width: 174px;
+  height: 140px;
+}

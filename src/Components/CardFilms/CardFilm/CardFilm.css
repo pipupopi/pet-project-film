@@ -1,0 +1,81 @@
+.containerCard {
+  display: flex;
+  height: 315px;
+}
+
+.wrapperCard {
+  margin-top: 30px;
+  margin-left: 30px;
+  height: 240px;
+  background-color: rgb(22, 22, 48);
+  box-shadow: 10px 10px 10px 1px rgba(75, 91, 156, 0.4);
+}
+
+.img_container {
+  border-right: 1px solid;
+  width: 140px;
+  height: 240px;
+}
+
+.img {
+  width: 140px;
+  height: 240px;
+}
+
+.halfs {
+  display: flex;
+  width: 315px;
+}
+
+.right {
+  min-width: 160;
+  max-width: 260px;
+}
+
+.header_card {
+  position: absolute;
+  padding-left: 8px;
+  font-size: 16px;
+  color: #ea003d;
+  margin-top: 10px;
+  max-width: 140px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.name_card {
+  margin-top: 55px;
+  padding-left: 8px;
+  font-size: 15px;
+  width: 150px;
+  height: 45px;
+  padding-left: 5px;
+  text-align: left;
+  font-weight: bolder;
+  color: white;
+  font-size: 16px;
+}
+
+.button_info {
+  position: absolute;
+  margin-top: 100px;
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+  padding-left: 8px;
+  color: #ea003d;
+}
+
+.btn_star,
+.btn_favorit {
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  padding-left: 10px;
+}
+
+.icons_card {
+  margin-right: -30px;
+}
